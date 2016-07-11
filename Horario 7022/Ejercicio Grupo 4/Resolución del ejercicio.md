@@ -1,5 +1,5 @@
 DESARROLLO DEL PROBLEMA: 
-ANÁLISIS ESTADÍSTICO DE LA VARIABLE DELITO (HOMOCIDIO)
+ANÁLISIS ESTADÍSTICO DE LA VARIABLE DELITO (TERRORISMO)
 El problema indica normalidad en la variable dependiente. Por lo que al asumirse normalidad en la distribución de los datos, se realizan análisis estadísticos paramétricos. En el caso de la variable delito tiene 5 sub-variables determinadas por tráfico, promoción, micro - comercialización de drogas, homicidio y terrorismo. Entonces se utilizó ANOVA ONE WAY para k – muestras independientes y que tengan una distribución normal.
 Para las hipótesis que se mostraron en el problema, tales como:
 -	Se espera que cada tipo de delito se encuentre asociado a distintos puntajes en la capacidad de manejar la ira de los reclusos.
